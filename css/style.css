@@ -1769,6 +1769,8 @@ div.slider__item2 img {
   div.slider__item2 img {
     height: 300px;
   }
+  div.apartmans__byt:nth-child(8) > div:nth-child(3) {
+    right: 0;
 }
 
 @media screen and (max-width: 1024px) {
