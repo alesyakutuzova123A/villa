@@ -1494,10 +1494,7 @@ div.slider__item2 img {
     display: block;
   }
 
-  div.apartmans__byt:nth-child(1) > div:nth-child(3) {
-    right: 45%;
-  }
-
+  
   .apartmans__byt p {
     top: auto;
   }
@@ -1506,13 +1503,19 @@ div.slider__item2 img {
     right: 43%;
   }
 
-  .apartmans__title {
-    right: 38%;
-  }
-
-  div.apartmans__byt:nth-child(5) > div:nth-child(3) {
-    right: 43%;
-  }
+  
+  div.apartmans__byt:nth-child(2) > div:nth-child(3) {
+    right: 0;
+    }
+    .apartmans__title {
+    right: 0;
+    }
+    div.apartmans__byt:nth-child(5) > div:nth-child(3) {
+    right: 0;
+    }
+    div.apartmans__byt:nth-child(8) > div:nth-child(3) {
+    right: 0;
+    }
 
   .about__wrap {
     display: block;
